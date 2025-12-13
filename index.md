@@ -1,5 +1,3 @@
-## 📘 Proyectos de Electrónica Analógica y Digital
-
 Bienvenido.  
 Este sitio reúne **diagramas esquemáticos y proyectos reales**
 desarrollados como material de apoyo educativo en cursos de
