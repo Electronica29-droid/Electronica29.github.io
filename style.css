@@ -16,7 +16,12 @@ body {
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
+}
+
+.logo img {
+  height: 45px;      /* ESTE ES EL TAMAÑO */
+  width: auto;
 }
 
 .logo span {
@@ -24,7 +29,6 @@ body {
   font-weight: bold;
   font-size: 18px;
 }
-
 
 .nav-links {
   list-style: none;
