@@ -14,10 +14,17 @@ body {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo span {
   color: white;
   font-weight: bold;
   font-size: 18px;
 }
+
 
 .nav-links {
   list-style: none;
